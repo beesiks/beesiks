@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Oosterlaar working @beesiks from the Netherlands
 - 👀 I’m interested in webdesign and webdevelopment, HTML(5), CSS(3), PHP, Javascript, MySQL : WordPress + Oxygenbuilder + Automaticcss
-- 🌱 I’m currently learning the new opportunity's for content management software like Full Site Editing, Headless WordPress
+- 🌱 I’m currently learning the new opportunity's for content management software like Full Site Editing, Headless WordPress within the landscape of front-end development
 - 💞️ I’m looking to collaborate on all these very interesting matters
 - 📫 How to reach me : send me via john@beesiks.nl of connect with me on twitter @johnoosterlaar
 
